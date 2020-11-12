@@ -1,2 +1,3 @@
-# test-repo
-This is a test
+# Test
+
+This Readme and the repository are a test.
